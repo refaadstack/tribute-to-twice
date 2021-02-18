@@ -1,0 +1,30 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    padding-top: 0px;
+    background-color: black;
+}
+
+.main{
+    background-color:transparent;
+
+}
+.main h1{
+    text-align: center;
+    color: 	#808080;
+}
+.img-div{
+    text-align: center;
+}
+.caption p{
+    color:#909090;
+    text-align: center;
+}
+
+.tribute{
+    width:auto;
+    background-color: pink;
+    text-align: center;
+} 
+.tribute .awards{
+    color: dimgray ;
+}
